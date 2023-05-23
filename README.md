@@ -1,6 +1,12 @@
 # lyrics-finder-saver
 a python script which using an Genius API, finds lyrics of the songs of a directory and saves them.
 
+required modules:
+1. lyricsgenius
+2. music_tag
+
+to install the modules, open cmd, type in "pip install 'module_name'" and Enter.
+
 To use, you need to enter a directory that contains songs with standard names; Standard name is like this:
 Single Song:
   "Artist" - "Song_Title" (Ft "Featuring Artists")
