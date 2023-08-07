@@ -3,7 +3,7 @@ from lyricsgenius import Genius
 import os
 
 
-api="apOmJ1qNDXoveYmug-MY-TaiuAKI3O-muQH4iABbTmyyE_tJK5BAqolYBX7-gQYp"
+api="Your Genius API"
 
 g=Genius(api)
 
